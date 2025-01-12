@@ -150,7 +150,7 @@ Puzzle Trials: Cooperative puzzle-solving modes that challenge teamwork and crea
 
 Green Hill Zone, once a peaceful and vibrant landscape, is shaken by a mysterious and powerful energy pulse originating from deep within the earth. Strange crystal formations erupt from the ground, distorting time and space. Rivers flow backward, land fragments hover in midair, and the serene sky flickers between day and night. The animals of the region are in chaos, and portals to unexplored dimensions appear without warning.
 
-Tails detects an unusual signal emanating from the depths of Green Hill and calls Sonic for help. Simultaneously, Dr. Eggman intercepts the same signal and identifies it as Chaos technology far more powerful than the Chaos Emeralds. Driven by ambition, he devises a plan to harness this energy to create a utopia under his control Eggmanland Prime. He constructs a colossal fortress deep underground to extract and weaponize the ancient energy source, fracturing the very fabric of reality in the process.
+Tails detects an unusual signal emanating from the depths of Green Hill and calls Sonic for help. Simultaneously, Dr. Eggman intercepts the same signal and identifies it as Chaos technology far more powerful than the Chaos Emeralds. Driven by ambition, he devises a plan to harness this energy to create a utopia under his control, Eggmanland Prime. He constructs a colossal fortress deep underground to extract and weaponize the ancient energy source, fracturing the very fabric of reality in the process.
 
 Sonic, Tails, Knuckles, and Amy reunite to investigate the anomalies, soon joined by Rouge the Bat, who seeks the legendary Chaos Relics hidden within Green Hill for her own reasons. Cream and Cheese also join the team after witnessing strange distortions near their home. Despite their differing motivations, the group forms an uneasy alliance, determined to stop Eggman’s plan and restore balance to their world.
 
@@ -160,7 +160,7 @@ The group sets out to explore the sprawling new Green Hill landscape, now fragme
 
 They encounter Eggman’s advanced robot army, powered by corrupted Chaos energy, and realize the gravity of the situation when they face the Titan Mech, a massive robot guarding Eggman’s underground extraction facility. Despite the team’s best efforts, Eggman manages to activate the Chaos Core, triggering a massive surge that spreads chaos energy across multiple regions. Reality itself begins to collapse, creating dangerous rifts where time and space spiral out of control.
 
-Sonic and his friends barely escape the explosion, regrouping to plan their next move. Tails theorizes that stabilizing the chaos anomalies requires locating and purifying the Chaos Shards—fragments of ancient technology scattered throughout the land. However, these shards are fiercely protected by corrupted Zone Guardians, powerful remnants of ancient civilizations.
+Sonic and his friends barely escape the explosion, regrouping to plan their next move. Tails theorizes that stabilizing the chaos anomalies requires locating and purifying the Chaos Shards, fragments of ancient technology scattered throughout the land. However, these shards are fiercely protected by corrupted Zone Guardians, powerful remnants of ancient civilizations.
 
 ## Act 2: The Guardians' Challenge
 
