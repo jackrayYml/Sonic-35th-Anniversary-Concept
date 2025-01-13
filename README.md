@@ -100,7 +100,7 @@ EMP Shockwave: Disable enemy shields and machinery.
 
 ## Knuckles:
 
-Dash Slam: Dash and Create fissures that damage enemies and reveal hidden paths.
+Dash Slam: Dash and create fissures that damage enemies and reveal hidden paths.
 
 Power Guard: Absorb damage and release a devastating counterattack.
 
