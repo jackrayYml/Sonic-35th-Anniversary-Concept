@@ -44,7 +44,7 @@ Chaos Anomaly Zones introduce time distortion mechanics, where players can manip
 
 # 3. Character Customization & Progression
 
-## Upgrades and Customizations
+## Upgrades and Customizations:
 
 Skill Trees: Tailor each character’s abilities for combat, traversal, and exploration.
 
