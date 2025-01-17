@@ -2,7 +2,7 @@
 
 ## Overview
 
-Celebrate Sonic's 35th anniversary with Sonic '27, a groundbreaking fusion of classic high-speed platforming and modern open-world adventure mechanics. The game redefines Green Hill Zone as a vast, evolving environment where every twist and turn holds a new challenge or hidden secret. Players will experience thrilling gameplay, dynamic combat, character-driven storytelling, and environmental puzzles, all while exploring a seamless day-night cycle and an interconnected world filled with ancient mysteries and technological threats.
+Celebrate Sonic's 40th anniversary with Sonic '31, a groundbreaking fusion of classic high-speed platforming and modern open-world adventure mechanics. The game redefines Green Hill Zone as a vast, evolving environment where every twist and turn holds a new challenge or hidden secret. Players will experience thrilling gameplay, dynamic combat, character-driven storytelling, and environmental puzzles, all while exploring a seamless day-night cycle and an interconnected world filled with ancient mysteries and technological threats.
 
 # 1. Expansions and Explorations
 
